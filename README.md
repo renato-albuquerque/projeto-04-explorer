@@ -1,18 +1,21 @@
-# Projeto 04 - Programa Explorer, Turma 06, Rocketseat
+# Project 04 - Rocketseat, Explorer Program, Class 06. 
 
 ![screenshot](images/screenshot.png)
 
-Projeto desenvolvido durante o Stage 03 do Programa Explorer, em Out/22.
-Desafio 01 - Criando Formulários.
+Project developed during the Stage 03 of Explorer Program, in Oct/22.
+Challenge 01 - Creating Forms.
 
-🔗 [Clique aqui para acessar](https://renato-albuquerque.github.io/projeto-04-explorer/)
+🔗 [Click here to access](https://renato-albuquerque.github.io/projeto-04-explorer/)
 
-## Tecnologias
+## Technologies
 
 - HTML
 - CSS
-- Git e Github
+- Git and Github
 
 ## Contato
 
 🔗 [Linkedin](https://www.linkedin.com/in/renato-malbuquerque/)
+🔗 [Business Card](https://rma-contacts.vercel.app/)
+🔗 [Portfolio](https://portfolio-renatoalbuquerque.vercel.app/)
+🔗 [Discord](https://discordapp.com/users/992621595547938837)
