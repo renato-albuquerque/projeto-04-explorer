@@ -13,7 +13,7 @@ Challenge 01 - Creating Forms.
 - CSS
 - Git and Github
 
-## Contato
+## Contact
 
 🔗 [Linkedin](https://www.linkedin.com/in/renato-malbuquerque/)
 🔗 [Business Card](https://rma-contacts.vercel.app/)
