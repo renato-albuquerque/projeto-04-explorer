@@ -29,7 +29,7 @@ body::before {
 }
 
 header {
-    width: 319px;
+    width: 600px;   /* Review width, 319px to 600px. */
     margin-top: 80px;   
 }
 
